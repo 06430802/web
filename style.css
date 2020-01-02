@@ -1,0 +1,50 @@
+<style type="text/css">
+.header {
+}
+.nav {
+	height: 100px;
+	background-color: #D06DAE;
+	float: none;
+	font-family: "標楷體";
+}
+.main {
+	height: 1000px;
+	background-color: #F46F9C;
+	float: none;
+	font-family: "微軟正黑體";
+	background-image: url(637100220362328750.jpg);
+	background-repeat: repeat;
+	background-size: auto auto;
+	background-position: 100px 100px;
+}
+.footer {
+	height: 200px;
+	background-color: #F4A8CB;
+	clear: both;
+	font-family: "微軟正黑體";
+	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.wrapper {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.header {
+	background-color: #EFAFD9;
+	height: 200px;
+	background-image: url(37700150_1820012064751119_8475792378660126720_n.jpg);
+	background-position: center bottom;
+}
+.box {
+	position: absolute;
+	width: 150px;
+	height: 75px;
+	left: 400px;
+	top: 224px;
+	background-color: #F78C9A;
+	cursor: pointer;
+}
+
+</style>
